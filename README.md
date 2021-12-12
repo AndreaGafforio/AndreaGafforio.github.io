@@ -1,2 +1,2 @@
 # Webexample.github.io/index.html
- andreagafforio.github.io/Webexample.github.io/
+ andreagafforio.github.io/Webexample
